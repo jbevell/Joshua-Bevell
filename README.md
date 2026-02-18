@@ -3,6 +3,11 @@
 <p>I am a Game Developer and Software Quality Assurance Engineer. I have six years of experience in the charitable gaming field alongside my personal projects. The creativity that I experience in game development drives me to continue learning. Let's make cool stuff.</p>
 <p>Email: <a href="mailto:joshuabevell@gmail.com">joshuabevell@gmail.com</a></p>
 
+<h3>Professional Projects</h3>
+<ul>
+	<p><li><a href="https://github.com/jbevell/Grover-Gaming-King-Kong"></a>Grover Gaming: King Kong</li> (Under Construction)</p>
+</ul>
+
 <h3>Game Jams</h3>
 <ul>
 	<li><a href=https://github.com/jbevell/Soul-Salvage>Soul Salvage</a></li>
