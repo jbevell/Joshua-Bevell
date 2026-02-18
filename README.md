@@ -1,4 +1,5 @@
 <h1>Hello and welcome</h1>
+<p>Email: <a href="mailto:joshuabevell@gmail.com">joshuabevell@gmail.com</a></p>
 
 <h3>Summary</h3>
 <p>I am a Game Developer and Software Quality Assurance Engineer. I have six years of experience in the charitable gaming field alongside my personal projects. The creativity that I experience in game development drives me to continue learning. Let's make cool stuff.</p>
