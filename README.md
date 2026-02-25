@@ -5,7 +5,7 @@
 
 <h3>Professional Projects</h3>
 <ul>
-	<li><a href="https://github.com/jbevell/Grover-Gaming-King-Kong">Grover Gaming: King Kong</a> (Under Construction)</li>
+	<li><a href="https://github.com/jbevell/Grover-Gaming-King-Kong">Grover Gaming: King Kong</a></li>
 </ul>
 
 <h3>Game Jams</h3>
