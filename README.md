@@ -6,6 +6,7 @@
 
 <h3>Professional Projects</h3>
 <ul>
+	<li><a href="https://github.com/jbevell/Grover-Gaming-Overview">Summary of Contributions at Grover Gaming</a></li>
 	<li><a href="https://github.com/jbevell/Grover-Gaming-King-Kong">Grover Gaming: King Kong</a></li>
 </ul>
 
